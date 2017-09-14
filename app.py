@@ -611,4 +611,4 @@ def update_options_main(selected, start_date, end_date, resolution,
 # In[]:
 # Main
 if __name__ == '__main__':
-    app.server.run(debug=True, threaded=True)
+    app.server.run()
