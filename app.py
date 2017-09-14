@@ -6,7 +6,6 @@ import time
 
 import numpy as np
 import pandas as pd
-import cufflinks as cf
 
 import flask
 import dash
